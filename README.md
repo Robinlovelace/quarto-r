@@ -1,5 +1,6 @@
 # quarto <a href="https://quarto-dev.github.io/quarto-r/"><img src="man/figures/logo.png" align="right" height="138" alt="quarto website" /></a>
 
+
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/quarto)](https://CRAN.R-project.org/package=quarto)
 [![R-CMD-check](https://github.com/quarto-dev/quarto-r/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/quarto-dev/quarto-r/actions/workflows/R-CMD-check.yaml)
