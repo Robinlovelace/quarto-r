@@ -1,6 +1,6 @@
 #' Path to the quarto binary
 #'
-#' Determine the path to the quarto binary. Uses `QUARTO_PATH` environment
+#' Determine the path to the quarto binary. This function uses `QUARTO_PATH` environment
 #' variable if defined, otherwise uses `Sys.which()`.
 #'
 #' @return Path to quarto binary (or `NULL` if not found)
